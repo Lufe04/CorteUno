@@ -1,0 +1,60 @@
+h2{
+    border: 2px solid lightslategray;
+    border-color: lightslategray;
+    background-color: lightslategray;
+    margin: 8px;
+    width:700x;
+}
+
+#idiomas{
+    color:black;
+    border: 2px solid white;
+    background-color: white;
+}
+
+#habilidades{
+    color:black;
+    border: 2px solid white;
+    background-color: white;
+}
+
+.contacto{
+    color:black;
+    text-align: left;
+}
+
+h3{
+    color: white;
+}
+
+.cuadro1{
+    background-color: lightslategray;
+    padding: 10px 10px 15px 20px;
+    border-radius: 3px;
+    border-color: lightslategray;
+    margin: 15px;
+    margin-left: 120px;
+    width: 320px;
+    color: white;
+    display:inline-block;
+    vertical-align: auto;
+    height:750px;
+}
+
+.cuadro3{
+    padding: 5px 10px 15px 15px;
+    border: 2px solid lightslategrey;
+    border-radius: 3px;
+    margin: 10px;
+    margin-top: 15px;
+    width:600px;
+    height: 750px;
+    display:inline-block;
+    vertical-align:top;
+}
+
+.encabezado{
+    color: black;
+    text-align: center;
+}
+

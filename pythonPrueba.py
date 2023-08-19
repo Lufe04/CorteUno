@@ -1,1 +1,0 @@
-print("esta puta mierda")

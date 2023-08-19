@@ -5,6 +5,14 @@ h2{
     margin: 8px;
     width:700x;
 }
+body{
+    background: linear-gradient(
+        150deg,
+        lightslategray,
+        lightblue,
+        white
+    );
+}
 
 #idiomas{
     color:black;

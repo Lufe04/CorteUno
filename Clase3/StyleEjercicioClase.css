@@ -1,0 +1,9 @@
+#degrade{
+    background: linear-gradient(
+        150deg,
+        lightslategray,
+        lightblue,
+        white
+    );
+}
+

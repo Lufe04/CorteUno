@@ -1,0 +1,20 @@
+#cuestionario{
+    background-color: cornsilk;
+    border:2px solid cornsilk;
+    width: max-content;
+}
+
+.subcuestionario{
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.intereses{
+    padding-top: 15px;
+    padding-bottom: 15px;  
+}
+
+.caja3{
+    padding-top: 15px;
+    padding-bottom: 15px;
+}

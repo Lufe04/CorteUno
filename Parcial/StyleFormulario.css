@@ -1,28 +1,25 @@
-#cuestionario{
-    background-color: cornsilk;
-    border:2px solid cornsilk;
-    width: max-content;
+.container{
+    background-color:lightgrey;
 }
-
-.h1{
+h1{
     color:brown;
 }
 
-.h2{
-    color:cadetblue;
+h3{
+    color:blue;
 }
 
-.subcuestionario{
+#subcuestionario{
     padding-top: 15px;
     padding-bottom: 15px;
 }
 
-.intereses{
+#intereses{
     padding-top: 15px;
     padding-bottom: 15px;  
 }
 
-.caja3{
+#caja3{
     padding-top: 15px;
     padding-bottom: 15px;
 }

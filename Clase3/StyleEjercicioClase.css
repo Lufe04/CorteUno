@@ -7,3 +7,30 @@
     );
 }
 
+.num1{
+    padding-top: 20px;
+    padding-bottom: 10px;
+    text-align: right;
+}
+.num2{
+    padding-top: 15px;
+    padding-bottom: 10px;
+    text-align: right;
+}
+.num3{
+    padding-top: 15px;
+    padding-bottom: 10px;
+    text-align: right;
+}
+
+.texto1{
+    text-align: justify;
+}
+
+.texto2{
+    text-align: justify;
+}
+
+.texto3{
+    text-align: justify;
+}

@@ -4,6 +4,14 @@
     width: max-content;
 }
 
+.h1{
+    color:brown;
+}
+
+.h2{
+    color:cadetblue;
+}
+
 .subcuestionario{
     padding-top: 15px;
     padding-bottom: 15px;
